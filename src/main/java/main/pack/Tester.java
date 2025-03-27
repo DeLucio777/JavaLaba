@@ -43,5 +43,5 @@ public class Tester {
     public static void printWelcomeMessage() {
         System.out.println("Добро пожаловать к тестерам.");
         ///hi
-    }
+    }///hello
 }
